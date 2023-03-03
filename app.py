@@ -1,9 +1,9 @@
 import streamlit as st
 from PIL import Image
 
-hamburguer = Image.open('C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\230446.jpg')
-ice_cream = Image.open('C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\321321.jpg')
-pizza = Image.open('C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\pizza.jpg')
+hamburguer = Image.open('C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\230446.png')
+ice_cream = Image.open('C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\321321.png')
+pizza = Image.open('C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\pizza.png')
 base_model_structure = Image.open("C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\base_model_structure.png")
 model_structure = Image.open("C:\\Users\\Gusta\\Documents\\CodeStuff\\Machine_Learning\\Git Uploads\\Food101-streamlit\\pics\\model_structure.png")
 
