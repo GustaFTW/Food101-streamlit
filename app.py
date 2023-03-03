@@ -21,7 +21,8 @@ For the amount of training time these are not so bad results.""")
 st.header("_Food101 Dataset_")
 st.text("""As mentioned above, this project used the Food101 dataset 
 from Tensorflowdatasets (https://www.tensorflow.org/datasets/api_docs/python/tfds), 
-after the data pipeline (the code can be found in the github) the model was fitted to the data""")
+after the data pipeline (the code can be found in the 
+github: https://github.com/GustaFTW/Food101) the model was fitted to the data""")
 st.text("""The first thing needed to be done in the data was
 split it into train and test set, which was easy 
 using the tensorflow.dataset library. After that, it was used
