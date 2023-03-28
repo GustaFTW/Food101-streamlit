@@ -8,7 +8,7 @@ base_model_structure = Image.open("pics/base_model_structure.png")
 model_structure = Image.open("pics/model_structure.png")
 
 
-st.title("Food Recognition: Exercicios Aula DevOps")
+st.title("Food 101")
 st.text("""This is a project that can identify 101 types of different food, 
 it was made using Tensorflow Food101 dataset, all the code can be found on
 github.com/gustaftw/ 
